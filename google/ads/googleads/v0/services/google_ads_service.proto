@@ -93,6 +93,7 @@ import "google/ads/googleads/v0/services/shared_criterion_service.proto";
 import "google/ads/googleads/v0/services/shared_set_service.proto";
 import "google/ads/googleads/v0/services/user_list_service.proto";
 import "google/api/annotations.proto";
+import "google/api/client.proto";
 import "google/protobuf/field_mask.proto";
 import "google/rpc/status.proto";
 

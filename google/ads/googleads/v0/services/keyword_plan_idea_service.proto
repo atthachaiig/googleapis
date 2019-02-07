@@ -20,6 +20,7 @@ package google.ads.googleads.v0.services;
 import "google/ads/googleads/v0/common/keyword_plan_common.proto";
 import "google/ads/googleads/v0/enums/keyword_plan_network.proto";
 import "google/api/annotations.proto";
+import "google/api/client.proto";
 import "google/protobuf/wrappers.proto";
 
 option csharp_namespace = "Google.Ads.GoogleAds.V0.Services";

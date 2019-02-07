@@ -20,6 +20,7 @@ package google.ads.googleads.v0.services;
 import "google/ads/googleads/v0/common/keyword_plan_common.proto";
 import "google/ads/googleads/v0/resources/keyword_plan.proto";
 import "google/api/annotations.proto";
+import "google/api/client.proto";
 import "google/protobuf/field_mask.proto";
 import "google/protobuf/wrappers.proto";
 import "google/rpc/status.proto";

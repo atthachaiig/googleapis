@@ -21,6 +21,7 @@ import "google/ads/googleads/v0/enums/keyword_match_type.proto";
 import "google/ads/googleads/v0/resources/ad.proto";
 import "google/ads/googleads/v0/resources/recommendation.proto";
 import "google/api/annotations.proto";
+import "google/api/client.proto";
 import "google/protobuf/wrappers.proto";
 import "google/rpc/status.proto";
 
